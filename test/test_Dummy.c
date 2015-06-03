@@ -14,4 +14,3 @@ void test_doDummyStuff_give(void)
 {
 	doDummyStuff();
 }
-// git diff (what change in your code

@@ -1,6 +1,15 @@
 #include "Dummy.h"
 
-void doDummyStuff(){
 
-    return 0;
+
+int doDummyStuff()
+{
+	gila_gila();
 }
+
+int dosomeOtherStuff() 
+{
+    return 1;
+    
+}
+
